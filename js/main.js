@@ -5,6 +5,8 @@
 	aname('김일국'); //함수 호출
 	*/
 	$(document).ready(function(){
+		// 상단 바로가기 버튼 클릭
+		$(".to_top a").smoothScroll();
 		//alert('콜백함수 실행');
 		$(".openMOgnb").click(function(){
 			// alert(); 디버그용
