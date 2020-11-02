@@ -6,7 +6,7 @@
 
 #### 20201030(금)
 - background-size: cover 속성은 영역보다 이미지가 작을때 작동.
-- initial : 초기화
+- initial : 초기화(extends)
 - inherit : 상속 (extends)
 - @media all => screen + print +... 
 - 대괄호 [배열], 중괄호 {구현 내용}, 소괄호 (매개변수)
